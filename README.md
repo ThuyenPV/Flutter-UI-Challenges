@@ -1,17 +1,20 @@
-# flutter_ui_challenge
+# Flutter UI Challenges
 
-A new Flutter application.
+I'm really exiceted when join into the Flutter UI Challenge in 100 Days with references challenge from the [View Reference Challenge](https://awesomeopensource.com/project/pedromassango/my_flutter_challenges) and some websites on the internet.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Building and running the code [ **Updated** ]
 
-A few resources to get you started if this is your first Flutter project:
+### Table of contents
+- Day 1 **[E-Wallet](#E-Wallet)**
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Packages Used
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Flutter-UI-Challenges
+- Flutter Challenge Website (https://awesomeopensource.com/project/pedromassango/my_flutter_challenges)
+- Github Repository Reference Website (https://github.com/lohanidamodar/flutter_ui_challenges)
+- Flutter Plugin  (https://pub.dev/)
+
+
+## E-Wallet
+
+<img height="480px" src="screenshots/day_1.jpg" >
